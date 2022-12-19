@@ -40,10 +40,10 @@ This project would not find out the most efficient models in classifying traffic
 
 
 ![002_1_0017](https://user-images.githubusercontent.com/102041218/208332210-f4b9fe3b-56da-4f6e-b9f9-0087cf6dabbe.png)
-![002_1_0004](https://user-images.githubusercontent.com/102041218/208332246-b294f5f3-1e64-40a9-bf93-a0e79ab70898.png)
+![007_1_0001](https://user-images.githubusercontent.com/102041218/208332354-45927086-4ab1-48e6-9f37-50979c9f0627.png)
 
 
-## Observations![Uploading 002_1_0010.png…]()
+## Observations
 
 
 1.  Accuracy:
