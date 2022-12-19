@@ -9,7 +9,7 @@ The objective of this project is to test and compare different CNN model archite
 Within the skyrocketing industry of self-driving smart car, safety has always been an essential concern that all car manufacturer and innovator need to address while updating vehicle’s other attributes such as speed and energy consumption.  In this topic, abiding to the traffic signs is a significant component. However, in real life, some of the traffic signs are often damaged or doodled; therefore, it’s vital for all self-driving vehicles to be able to identify traffic signs robustly and consistently.
 
 3. Benefit:
-This project would not find out the most efficient models in classifying traffic signs but also indicates the most robust model against the unrelated feature information
+In real life situations, some traffic signs that we see on the streets are not in perfect conditions: they are sometimes damaged or scribbled on. In this case, finding the most accurate model is just as vital as finding the most robust one.
 
 ## Description of Repository
 
