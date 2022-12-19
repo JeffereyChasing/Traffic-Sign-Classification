@@ -36,10 +36,15 @@ This project would not find out the most efficient models in classifying traffic
 * Example of LeNet5 Transfer Learning
 ![image](https://user-images.githubusercontent.com/102041218/208331433-47df0207-72aa-441f-9d51-3c73ad0cf2dd.png)
 
-## Results
+## Original Dataset Sample
 
 
-## Observations
+![002_1_0017](https://user-images.githubusercontent.com/102041218/208332210-f4b9fe3b-56da-4f6e-b9f9-0087cf6dabbe.png)
+![002_1_0004](https://user-images.githubusercontent.com/102041218/208332246-b294f5f3-1e64-40a9-bf93-a0e79ab70898.png)
+
+
+## Observations![Uploading 002_1_0010.png…]()
+
 
 1.  Accuracy:
 * Compare LeNet-5, ResNet-50, VGG-16, and InceptionV3’s model accuracy in classifying various traffic signs on the traffic Sign Dataset to select the best model.
