@@ -74,8 +74,8 @@ This project would not find out the most efficient models in classifying traffic
 * InceptionV3 > VGG16 > LeNet5 > ResNet50
 
 2. Robustness Against Graffitied Traffic Signs:
-* LeNet5 > InceptionV3 > VGG16 > ResNet50 
-* The validation accuracy of the models decreased when tested on the modified validation set compared to the original validation set. This decrease in accuracy indicates that the models are less effective at classifying the modified traffic signs than the original traffic signs. But it is worth noting that the decrease in validation accuracy was relatively small for some of the models, particularly VGG-16 and Inception-V3, which still achieved relatively high accuracy on the modified validation set. This suggests that these models may be more robust to changes in the training data than the other models.
+* InceptionV3 > VGG16 > LeNet5 > ResNet50 
+* The validation accuracy of the models decreased when tested on the modified validation set compared to the original validation set. This decrease in accuracy indicates that the models are less effective at classifying the modified traffic signs than the original traffic signs. But it is worth noting that the decrease in validation accuracy was relatively large for VGG-16 and Inception-V3, which still achieved relatively high accuracy on the modified validation set. This suggests that these two models may be more robust to changes in the training data than the other models.
 
 3. Transferability:
 * (LeNet5 and Inception-V3) ↑ 
