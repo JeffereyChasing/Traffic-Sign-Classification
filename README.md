@@ -59,10 +59,12 @@ This project would not find out the most efficient models in classifying traffic
 <img width="486" alt="截屏2022-12-18 下午10 47 12" src="https://user-images.githubusercontent.com/85027205/208343563-2d1138b7-4b37-46ae-8383-d182589fa6b1.png">
 
 4. Transfer Learning Accuracy
-Train Accuracy:
+* Train Accuracy:
+
 <img width="798" alt="截屏2022-12-18 下午10 50 40" src="https://user-images.githubusercontent.com/85027205/208343952-0d95a697-a1bb-469d-8138-0c25301d3bf2.png">
 
-Validation Accuracy:
+* Validation Accuracy:
+
 <img width="798" alt="截屏2022-12-18 下午10 51 15" src="https://user-images.githubusercontent.com/85027205/208343993-d14e6eaf-07d9-424b-bd29-7f552b33273b.png">
 
 ## Observations
