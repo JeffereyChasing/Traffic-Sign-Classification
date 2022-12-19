@@ -30,8 +30,8 @@ In real life situations, some traffic signs that we see on the streets are not i
 
 ## Example Commands of Code Execution
 
-* Example of VGG16 model construction
- ![image](https://user-images.githubusercontent.com/102041218/208331108-b003115c-ac8b-429c-ae1d-f8a08fb2c44e.png)
+* Example of LeNet5 model construction
+![image](https://user-images.githubusercontent.com/102041218/208345623-90719719-9049-4889-950a-fe3c40f0daf7.png)
 
 * Example of LeNet5 Transfer Learning
 ![image](https://user-images.githubusercontent.com/102041218/208331433-47df0207-72aa-441f-9d51-3c73ad0cf2dd.png)
