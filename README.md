@@ -21,12 +21,12 @@ This project would not find out the most efficient models in classifying traffic
 
 ## Code Structure
 
-Part 1: import Traffic Sign Dataset from Kaggle
-Part 2: Data Augumentation and Rescaling
-Part 3: Build LeNet5, ResNet50, VGG16, and InceptionV3 models, compile and fit to get accuracy and validation accuracy
-Part 4: Randomly change the color of certain pixels in each image to imitate the real-life traffic signs that are usually damaged or distorted in certain ways
-Part 5: Use previously trained models to evaluate the modified dataset to see the robustness of the models
-Part 6: Run Transfer Learning on all 4 models (Two options: Freeze 50%, Freeze 100%) 
+* Part 1: import Traffic Sign Dataset from Kaggle
+* Part 2: Data Augumentation and Rescaling
+* Part 3: Build LeNet5, ResNet50, VGG16, and InceptionV3 models, compile and fit to get accuracy and validation accuracy
+* Part 4: Randomly change the color of certain pixels in each image to imitate the real-life traffic signs that are usually * damaged or distorted in certain ways
+* Part 5: Use previously trained models to evaluate the modified dataset to see the robustness of the models
+* Part 6: Run Transfer Learning on all 4 models (Two options: Freeze 50%, Freeze 100%) 
 
 ## Example Commands of Code Execution
 
