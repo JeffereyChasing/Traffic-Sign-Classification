@@ -30,6 +30,10 @@ This project would not find out the most efficient models in classifying traffic
 
 ## Example Commands of Code Execution
 
+* Example of VGG16 model construction
+* ![image](https://user-images.githubusercontent.com/102041218/208331108-b003115c-ac8b-429c-ae1d-f8a08fb2c44e.png)
+
+
 ## Results
 
 
