@@ -30,7 +30,7 @@ This project would not find out the most efficient models in classifying traffic
 
 1.  Accuracy:
 * Compare LeNet-5, ResNet-50, VGG-16, and InceptionV3’s model accuracy in classifying various traffic signs on the traffic Sign Dataset to select the best model.
-* 
+* InceptionV3 > VGG16 > LeNet5 > ResNet50
 
 
 2. Robustness Against Graffitied Traffic Signs:
