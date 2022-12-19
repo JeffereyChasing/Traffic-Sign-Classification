@@ -47,15 +47,29 @@ This project would not find out the most efficient models in classifying traffic
 ![006_0003](https://user-images.githubusercontent.com/102041218/208332790-746e3888-82eb-4bd2-a14f-3aa723e9e7a5.png)
 ![022_1_0001](https://user-images.githubusercontent.com/102041218/208332837-15ab072d-309a-48c9-b39d-b4c5a8e66471.png)
 
+## Results (including charts/tables)
 
+1. Accuracy on original traffic sign dataset
+<img width="824" alt="截屏2022-12-18 下午10 39 06" src="https://user-images.githubusercontent.com/85027205/208342797-e21f12a0-6244-4b9b-9c89-74d44f45bef9.png">
+
+2. Validation Accuracy on modified traffic sign dataset 
+<img width="771" alt="截屏2022-12-18 下午10 36 11" src="https://user-images.githubusercontent.com/85027205/208342928-c0008ba6-cd93-4517-bb85-cf60c7d887ee.png">
+
+3. Change of Validation Accuracy between original data and modified data
+<img width="486" alt="截屏2022-12-18 下午10 47 12" src="https://user-images.githubusercontent.com/85027205/208343563-2d1138b7-4b37-46ae-8383-d182589fa6b1.png">
+
+4. Transfer Learning Accuracy
+Train Accuracy:
+<img width="798" alt="截屏2022-12-18 下午10 50 40" src="https://user-images.githubusercontent.com/85027205/208343952-0d95a697-a1bb-469d-8138-0c25301d3bf2.png">
+
+Validation Accuracy:
+<img width="798" alt="截屏2022-12-18 下午10 51 15" src="https://user-images.githubusercontent.com/85027205/208343993-d14e6eaf-07d9-424b-bd29-7f552b33273b.png">
 
 ## Observations
-
 
 1.  Accuracy:
 * Compare LeNet-5, ResNet-50, VGG-16, and InceptionV3’s model accuracy in classifying various traffic signs on the traffic Sign Dataset to select the best model.
 * InceptionV3 > VGG16 > LeNet5 > ResNet50
-
 
 2. Robustness Against Graffitied Traffic Signs:
 * LeNet5 > InceptionV3 > VGG16 > ResNet50 
