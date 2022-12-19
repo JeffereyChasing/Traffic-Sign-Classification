@@ -28,11 +28,16 @@ This project would not find out the most efficient models in classifying traffic
 
 ## Observations
 
-1. Robustness Against Graffitied Traffic Signs:
+1.  Accuracy:
+* Compare LeNet-5, ResNet-50, VGG-16, and InceptionV3’s model accuracy in classifying various traffic signs on the traffic Sign Dataset to select the best model.
+* 
+
+
+2. Robustness Against Graffitied Traffic Signs:
 * LeNet5 > InceptionV3 > VGG16 > ResNet50 
 * The validation accuracy of the models decreased when tested on the modified validation set compared to the original validation set. This decrease in accuracy indicates that the models are less effective at classifying the modified traffic signs than the original traffic signs. But it is worth noting that the decrease in validation accuracy was relatively small for some of the models, particularly VGG-16 and Inception-V3, which still achieved relatively high accuracy on the modified validation set. This suggests that these models may be more robust to changes in the training data than the other models.
 
-2. Transferability:
+3. Transferability:
 * (LeNet5 and Inception-V3) ↑ 
 * (ResNet50 and VGG-16) ↓
 * When using transfer learning to fine-tune the models on the modified training set, the validation accuracy increased for some models (LeNet5 and Inception-V3) and decreased for others (ResNet50 and VGG-16). Overall, these results suggest that the effectiveness of transfer learning can vary depending on the specific model and the task at hand. In this case, transfer learning was able to improve the performance of some models on the modified validation set, but had a negative effect on the performance of others. It's important to carefully consider the capabilities and limitations of different models when choosing a model for a specific task and to carefully evaluate their performance on the relevant data.
